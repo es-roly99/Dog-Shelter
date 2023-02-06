@@ -1,0 +1,125 @@
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\mycourses\coreAPI\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+D:\New folder\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Roly\OneDrive\Documentos\Projects\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
